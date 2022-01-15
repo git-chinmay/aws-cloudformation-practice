@@ -19,5 +19,5 @@ Resources:
     Type: AWS::EC2::Instance
     DeletionPolicy: Retain
     Properties:
-      ImageId: ami-043097594a7df80ec
+      ImageId: ami-08e4e35cccc6189f4
       InstanceType: t2.micro
